@@ -32,7 +32,7 @@ Trois zones de widgets sont disponibles:
 * Footer Widgets 1
 * Footer Widgets 2
 
-## Extensions recommandées:
+## Extensions recommandées:
 
 Eris Lite recommande d'activer les extensions suivantes:
 
